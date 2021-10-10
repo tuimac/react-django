@@ -10,6 +10,7 @@ ADD entrypoint.sh /root/entrypoint.sh
 
 RUN apk update && \
     apk upgrade && \
-    apk add --no-cache bash git python3 python3-dev py3-pip nodejs npm curl tree nginx mysql-client
+    apk add --no-cache bash git python3 python3-dev py3-pip nodejs npm curl tree nginx mysql-client && \
+    pip3 install -r requirements.txt
 
 ENTRYPOINT ["/root/entrypoint.sh"]
