@@ -23,7 +23,6 @@ services:
     restart: always
     ports:
       - 80:80
-      - 8000:8000
     networks:
       - react-django
 networks:
