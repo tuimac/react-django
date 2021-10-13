@@ -22,9 +22,9 @@ jobs:
           command: |
             set -x
             cd web
-            docker build -t tuimac/web
+            docker build -t tuimac/web .
             cd ../application
-            docker build -t tuimac/application
+            docker build -t tuimac/application .
       - run:
           name: Start containers
           working_directory: docker/prod
