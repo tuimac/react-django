@@ -7,7 +7,7 @@ services:
       MYSQL_USER: test
       MYSQL_PASSWORD: password
       MYSQL_DATABASE: test
-      MYSQL_RANDOM_ROOT_PASSWORD: yes
+      MYSQL_RANDOM_ROOT_PASSWORD: 'true'
     expose:
       - 3306
     networks:
