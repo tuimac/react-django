@@ -21,7 +21,10 @@ jobs:
           working_directory: docker/prod
           command: |
             set -x
-            docker-compose build
+            cd web
+            docker build -t tuimac/web
+            cd ../application
+            docker build -t tuimac/application
       - run:
           name: Start containers
           working_directory: docker/prod
