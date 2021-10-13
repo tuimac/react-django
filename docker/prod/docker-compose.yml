@@ -14,16 +14,14 @@ services:
       - react-django
   application:
     image: tuimac/application
-    build: application
     container_name: application
     restart: always
-    ports:
-      - 8000:8000
+    expose:
+      - 8000
     networks:
       - react-django
   web:
     image: tuimac/web
-    build: web
     container_name: web
     restart: always
     ports:

@@ -1,0 +1,64 @@
+version: 2.1
+executors:
+  awscli:
+    docker:
+      - image: amazon/aws-cli
+    environment:
+      AWS_DEFAULT_REGION: ap-northeast-1
+      AWS_PAGER: ""
+jobs:
+  create_images:
+    machine: true
+    steps:
+      - checkout
+      - run:
+          name: Install docker compose
+          command: |
+            sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+            sudo chmod +x /usr/local/bin/docker-compose
+      - run:
+          name: Build images
+          working_directory: docker/prod
+          command: |
+            set -x
+            docker-compose build
+      - run:
+          name: Start containers
+          working_directory: docker/prod
+          command: |
+            set -x
+            docker-compose up -d
+      - run:
+          name: Integration test - Access landing page
+          command: |
+            for i in {0..10}; do
+              STATUS_CODE=$(curl -LI http://localhost -o /dev/null -w '%{http_code}\n' -s)
+              [[ $STATUS_CODE == '200' ]] && exit 0 
+              sleep 3
+            done
+            exit 1
+      - run:
+          name: Push images
+          working_directory: docker/prod
+          command: |
+            echo ${DOCKER_PASS} | docker login -u ${DOCKER_USER} --password-stdin
+            set -x
+            docker-compose push
+  deploy:
+    executor: awscli
+    steps:
+      - run:
+          name: Deploy containers
+          command: |
+            aws ssm send-command \
+              --targets Key=tag:Deploy,Values=yes \
+              --document-name 'AWS-RunShellScript' \
+              --parameters 'commands=/home/ec2-user/react-django/deploy.sh '
+workflows:
+  version: 2.1
+  react-django:
+    jobs:
+      - create_images
+      - deploy:
+          requires:
+            - create_images
