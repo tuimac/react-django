@@ -8,7 +8,8 @@ executors:
       AWS_PAGER: ""
 jobs:
   create_images:
-    machine: ubuntu-2004:202010-01
+    machine:
+      image: ubuntu-2004:202010-01
     environment:
       - CI: ""
     steps:
