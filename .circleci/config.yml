@@ -11,11 +11,13 @@ jobs:
     machine:
       image: ubuntu-2004:202010-01
     environment:
+      - FRONT_IMAGE: 'tuimac/web'
+      - APP_IMAGE: 'tuimac/application'
       - CI: ""
     steps:
       - checkout
       - run:
-          name: Install docker compose
+          name: Install tools
           command: |
             sudo apt update
             sudo apt install -y nodejs npm
@@ -38,9 +40,9 @@ jobs:
             set -x
             cp -rp ../../src/backend application/
             cd web
-            docker build -t tuimac/web .
+            docker build -t ${FRONT_IMAGE} .
             cd ../application
-            docker build -t tuimac/application .
+            docker build -t ${APP_IMAGE} .
       - run:
           name: Start containers
           working_directory: docker/prod
@@ -62,7 +64,8 @@ jobs:
           command: |
             echo ${DOCKER_PASS} | docker login -u ${DOCKER_USER} --password-stdin
             set -x
-            docker-compose push
+            docker push ${FRONT_IMAGE}
+            docker push ${APP_IMAGE}
   deploy:
     executor: awscli
     steps:
