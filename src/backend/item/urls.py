@@ -1,6 +1,8 @@
 from django.urls import path
-from .views import ItemViewSet
+from .views import ItemList
+from .views import ItemSearch
 
 urlpatterns = [
-    path('', ItemViewSet)
+    path('list', ItemList.as_view()),
+    path('search&<str:name>', ItemSearch.as_view())
 ]

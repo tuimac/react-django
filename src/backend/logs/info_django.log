@@ -1,138 +1,48 @@
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:25:10,848
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:25:38,053
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:26:18,099
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:26:46,190
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:27:30,451
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:28:49,110
+[INFO] - 2021-10-16 08:45:53,618
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
 
-/root/react-django/src/backend/backend/settings.py changed, reloading.
+/root/react-django/src/backend/item/views.py changed, reloading.
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:28:49,589
+[INFO] - 2021-10-16 08:45:54,070
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
 
 Watching for file changes with StatReloader
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:28:54,498
+[INFO] - 2021-10-16 08:45:59,312
 
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
+Source log file: /root/react-django/src/backend/item/views.py line: 25
 
-Watching for file changes with StatReloader
+None
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:39:01,089
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:39:32,130
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:41:50,638
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
-
-/root/react-django/src/backend/item/urls.py changed, reloading.
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:41:51,317
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:42:11,669
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:42:44,256
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:44:42,488
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:45:21,726
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:46:26,373
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:46:56,221
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[ERROR] - 2021-10-16 05:47:01,197
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/log.py line: 224
-
-Internal Server Error: /api/item
-Traceback (most recent call last):
-  File "/usr/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
-    response = get_response(request)
-  File "/usr/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: __init__() takes 1 positional argument but 2 were given
-----------------------------------------------------------------------------------------------------
-[ERROR] - 2021-10-16 05:47:01,208
+[INFO] - 2021-10-16 08:45:59,346
 
 Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
 
-"GET /api/item HTTP/1.0" 500 53465
+"GET /api/item/search&test HTTP/1.0" 200 327
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:52:41,004
+[INFO] - 2021-10-16 08:47:48,807
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
 
-/root/react-django/src/backend/backend/settings.py changed, reloading.
+/root/react-django/src/backend/item/views.py changed, reloading.
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-16 05:52:41,905
+[INFO] - 2021-10-16 08:47:49,429
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
 
 Watching for file changes with StatReloader
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-16 08:47:55,516
+
+Source log file: /root/react-django/src/backend/item/views.py line: 25
+
+None
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-16 08:47:55,541
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/search&test HTTP/1.0" 200 327
