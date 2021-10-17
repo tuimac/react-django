@@ -1,2 +1,2 @@
-docker/dev/dataabase/data/
+docker/dev/dataabase/data/*
 __pycache__
