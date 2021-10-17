@@ -39,7 +39,6 @@ class ItemBase(views.APIView):
     def put(self, request, *args, **kwargs):
         try:
             target = Item.objects.filter(name=self.kwargs.get('name'))
-            serializer = ItemSerializer(target, data=request.data)
             if serializer.is_valid():
                 serializer.save()
                 return Response(serializer.data)

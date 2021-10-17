@@ -40,3 +40,39 @@ AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse`
 Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
 
 "PUT /api/item/phone/ HTTP/1.0" 500 69998
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-17 09:55:37,739
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
+
+/root/react-django/src/backend/item/views.py changed, reloading.
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-17 09:55:38,123
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
+
+Watching for file changes with StatReloader
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-17 09:56:06,931
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
+
+/root/react-django/src/backend/item/views.py changed, reloading.
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-17 09:56:07,332
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
+
+Watching for file changes with StatReloader
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-17 09:56:43,177
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
+
+/root/react-django/src/backend/item/views.py changed, reloading.
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-17 09:56:43,564
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
+
+Watching for file changes with StatReloader
