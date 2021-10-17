@@ -4,8 +4,9 @@ cd /root/react-django/src/frontend
 npm start &
 
 cd /root/react-django/src/backend
+sleep 2
 python3 manage.py migrate >> /root/migrate.log
-echo '##########################' >> /root//migrate.log
+echo '##########################' >> /root/migrate.log
 python3 manage.py migrate --fake >> /root/migrate.log
 python3 manage.py runserver 0.0.0.0:8000 &
 
