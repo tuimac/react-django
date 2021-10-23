@@ -1,0 +1,66 @@
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:49:50,576
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
+
+Watching for file changes with StatReloader
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:49:56,563
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 482
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:50:02,221
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 482
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:50:16,855
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 482
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:50:19,377
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 482
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:50:19,942
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 482
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:50:23,490
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/book/ HTTP/1.0" 200 197
+----------------------------------------------------------------------------------------------------
+[WARNING] - 2021-10-23 08:29:48,347
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/log.py line: 224
+
+Not Found: /api
+----------------------------------------------------------------------------------------------------
+[WARNING] - 2021-10-23 08:29:48,348
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api HTTP/1.0" 404 2090
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 08:29:53,700
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item HTTP/1.0" 301 0
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 08:29:53,716
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 482
