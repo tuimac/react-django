@@ -1,25 +1,88 @@
 ----------------------------------------------------------------------------------------------------
-[ERROR] - 2021-10-17 09:09:30,713
+[ERROR] - 2021-10-23 07:31:32,551
 
 Source log file: /root/react-django/src/backend/item/views.py line: 48
 
 Traceback (most recent call last):
-  File "/root/react-django/src/backend/item/views.py", line 44, in put
-    serializer.save()
-  File "/usr/lib/python3.9/site-packages/rest_framework/serializers.py", line 200, in save
-    self.instance = self.update(self.instance, validated_data)
-  File "/usr/lib/python3.9/site-packages/rest_framework/serializers.py", line 970, in update
-    info = model_meta.get_field_info(instance)
-  File "/usr/lib/python3.9/site-packages/rest_framework/utils/model_meta.py", line 35, in get_field_info
-    opts = model._meta.concrete_model._meta
-AttributeError: 'QuerySet' object has no attribute '_meta'
+  File "/usr/lib/python3.9/site-packages/django/db/models/fields/__init__.py", line 1823, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: 'card'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(pk=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 424, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 941, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 961, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 968, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1393, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1412, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1347, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1193, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/lookups.py", line 25, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/usr/lib/python3.9/site-packages/django/db/models/lookups.py", line 77, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/fields/__init__.py", line 1825, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'itemid' expected a number but got 'card'.
 
 ----------------------------------------------------------------------------------------------------
-[ERROR] - 2021-10-17 09:09:30,745
+[ERROR] - 2021-10-23 07:31:32,637
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/log.py line: 224
 
-Internal Server Error: /api/item/phone/
+Internal Server Error: /api/item/card/
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/django/db/models/fields/__init__.py", line 1823, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: 'card'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(pk=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 424, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 941, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 961, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 968, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1393, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1412, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1347, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/usr/lib/python3.9/site-packages/django/db/models/sql/query.py", line 1193, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/lookups.py", line 25, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/usr/lib/python3.9/site-packages/django/db/models/lookups.py", line 77, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/fields/__init__.py", line 1825, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'itemid' expected a number but got 'card'.
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "/usr/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
     response = get_response(request)
@@ -29,49 +92,322 @@ Traceback (most recent call last):
     return view_func(*args, **kwargs)
   File "/usr/lib/python3.9/site-packages/django/views/generic/base.py", line 70, in view
     return self.dispatch(request, *args, **kwargs)
-  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 511, in dispatch
-    self.response = self.finalize_response(request, response, *args, **kwargs)
-  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 423, in finalize_response
-    assert isinstance(response, HttpResponseBase), (
-AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/root/react-django/src/backend/item/views.py", line 49, in put
+    Response(serializer.errors, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+UnboundLocalError: local variable 'serializer' referenced before assignment
 ----------------------------------------------------------------------------------------------------
-[ERROR] - 2021-10-17 09:09:30,746
+[ERROR] - 2021-10-23 07:31:32,642
 
 Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
 
-"PUT /api/item/phone/ HTTP/1.0" 500 69998
+"PUT /api/item/card/ HTTP/1.0" 500 149508
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-17 09:55:37,739
+[INFO] - 2021-10-23 07:33:50,877
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
 
 /root/react-django/src/backend/item/views.py changed, reloading.
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-17 09:55:38,123
+[INFO] - 2021-10-23 07:33:51,268
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
 
 Watching for file changes with StatReloader
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-17 09:56:06,931
+[INFO] - 2021-10-23 07:33:57,092
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/card/ HTTP/1.0" 200 53
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:34:02,496
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 545
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:34:41,001
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/card/ HTTP/1.0" 200 54
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:34:44,389
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 546
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:01,490
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/card/ HTTP/1.0" 200 55
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:04,131
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:25,070
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/card/ HTTP/1.0" 200 55
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:29,321
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:30,053
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:35:48,195
+
+Source log file: /root/react-django/src/backend/item/views.py line: 48
+
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(name=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 435, in get
+    raise self.model.DoesNotExist(
+item.models.Item.DoesNotExist: Item matching query does not exist.
+
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:35:48,268
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/log.py line: 224
+
+Internal Server Error: /api/item/card/
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(name=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 435, in get
+    raise self.model.DoesNotExist(
+item.models.Item.DoesNotExist: Item matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/root/react-django/src/backend/item/views.py", line 49, in put
+    Response(serializer.errors, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+UnboundLocalError: local variable 'serializer' referenced before assignment
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:35:48,280
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/card/ HTTP/1.0" 500 96850
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:54,056
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:54,327
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:54,923
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:35:55,156
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:37:49,098
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:37:50,032
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:38:09,347
+
+Source log file: /root/react-django/src/backend/item/views.py line: 48
+
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(name=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 439, in get
+    raise self.model.MultipleObjectsReturned(
+item.models.Item.MultipleObjectsReturned: get() returned more than one Item -- it returned 2!
+
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:38:09,389
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/log.py line: 224
+
+Internal Server Error: /api/item/book/
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(name=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 439, in get
+    raise self.model.MultipleObjectsReturned(
+item.models.Item.MultipleObjectsReturned: get() returned more than one Item -- it returned 2!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/root/react-django/src/backend/item/views.py", line 49, in put
+    Response(serializer.errors, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+UnboundLocalError: local variable 'serializer' referenced before assignment
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:38:09,391
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/book/ HTTP/1.0" 500 96848
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:38:24,079
+
+Source log file: /root/react-django/src/backend/item/views.py line: 48
+
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(name=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 439, in get
+    raise self.model.MultipleObjectsReturned(
+item.models.Item.MultipleObjectsReturned: get() returned more than one Item -- it returned 2!
+
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:38:24,121
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/log.py line: 224
+
+Internal Server Error: /api/item/book/
+Traceback (most recent call last):
+  File "/root/react-django/src/backend/item/views.py", line 41, in put
+    target = Item.objects.get(name=self.kwargs.get('name'))
+  File "/usr/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/db/models/query.py", line 439, in get
+    raise self.model.MultipleObjectsReturned(
+item.models.Item.MultipleObjectsReturned: get() returned more than one Item -- it returned 2!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/root/react-django/src/backend/item/views.py", line 49, in put
+    Response(serializer.errors, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+UnboundLocalError: local variable 'serializer' referenced before assignment
+----------------------------------------------------------------------------------------------------
+[ERROR] - 2021-10-23 07:38:24,122
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"PUT /api/item/book/ HTTP/1.0" 500 96848
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:38:35,399
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:38:36,154
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 547
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:38:40,106
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/book/ HTTP/1.0" 200 223
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-10-23 07:43:57,928
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
 
-/root/react-django/src/backend/item/views.py changed, reloading.
+/root/react-django/src/backend/item/models.py changed, reloading.
 ----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-17 09:56:07,332
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
-
-Watching for file changes with StatReloader
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-17 09:56:43,177
-
-Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 251
-
-/root/react-django/src/backend/item/views.py changed, reloading.
-----------------------------------------------------------------------------------------------------
-[INFO] - 2021-10-17 09:56:43,564
+[INFO] - 2021-10-23 07:43:58,355
 
 Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
 

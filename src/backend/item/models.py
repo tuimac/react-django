@@ -1,8 +1,7 @@
 from django.db import models
 
 class Item(models.Model):
-    itemid = models.AutoField(primary_key=True)
-    name = models.CharField(max_length=255)
+    name = models.CharField(primary_key=True, max_length=255)
     volume = models.IntegerField()
     owner = models.CharField(max_length=255)
     class Meta:

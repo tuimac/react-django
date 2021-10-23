@@ -1,8 +1,7 @@
 use test
 
 CREATE TABLE IF NOT EXISTS ITEMS (
-    ItemID serial PRIMARY KEY,
-    Name varchar(255),
+    Name varchar(255) PRIMARY KEY,
     Volume int,
     Owner varchar(255)
 );

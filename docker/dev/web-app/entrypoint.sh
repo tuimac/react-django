@@ -4,6 +4,7 @@ cd /root/react-django/src/frontend
 npm start &
 
 cd /root/react-django/src/backend
+sleep 5
 python3 manage.py makemigrations --no-input
 python3 manage.py migrate
 python3 manage.py migrate --fake
