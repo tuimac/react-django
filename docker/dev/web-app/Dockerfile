@@ -15,6 +15,7 @@ RUN apk update && \
     pip3 install -r requirements.txt && \
     git clone https://github.com/tuimac/react-django && \
     cd /root/react-django/src/frontend && \
-    npm install
+    npm install && \
+    npm update --force
 
 ENTRYPOINT ["/root/entrypoint.sh"]
