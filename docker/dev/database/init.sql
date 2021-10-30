@@ -8,6 +8,6 @@ CREATE TABLE IF NOT EXISTS ITEMS (
 
 INSERT INTO ITEMS (Name, Volume, Owner) VALUES ('pen', 3, 'Bob');
 INSERT INTO ITEMS (Name, Volume, Owner) VALUES ('book', 1, 'John');
-INSERT INTO ITEMS (Name, Volume, Owner) VALUES ('pen', 3, 'Jully');
+INSERT INTO ITEMS (Name, Volume, Owner) VALUES ('cup', 3, 'Jully');
 INSERT INTO ITEMS (Name, Volume, Owner) VALUES ('card', 100, 'Mike');
 INSERT INTO ITEMS (Name, Volume, Owner) VALUES ('bike', 1, 'Bob');
