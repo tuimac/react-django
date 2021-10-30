@@ -9,7 +9,7 @@ class Layout extends React.Component {
     return(
       <div>
         <Navbar bg="dark" variant="dark">
-          <Navbar.Brand href="/">Item Store</Navbar.Brand>
+          <Navbar.Brand href="/" style={{ marginLeft: 15 }}>Item Store</Navbar.Brand>
         </Navbar>
       </div>
     );
