@@ -61,16 +61,16 @@ class AddItems extends React.Component {
             <Card.Body>
             <Form onSubmit={this.addItems}>
                 <Form.Group>
-                <Form.Label>Item Name</Form.Label>
-                <Form.Control type='text' placeholder='Item Name'  name='name' value={ this.state.name } onChange={ this.handleChange }/>
+                  <Form.Label>Item Name</Form.Label>
+                  <Form.Control type='text' placeholder='Item Name'  name='name' value={ this.state.name } onChange={ this.handleChange }/>
                 </Form.Group>
                 <Form.Group>
-                <Form.Label>Count</Form.Label>
-                <Form.Control type='text' placeholder='Count' name='count' value={ this.state.count } onChange={ this.handleChange }/>
+                  <Form.Label>Count</Form.Label>
+                  <Form.Control type='text' placeholder='Count' name='count' value={ this.state.count } onChange={ this.handleChange }/>
                 </Form.Group>
                 <Form.Group>
-                <Form.Label>Owner</Form.Label>
-                <Form.Control type='text' placeholder='Owner Name' name='owner' value={ this.state.owner } onChange={ this.handleChange }/>
+                  <Form.Label>Owner</Form.Label>
+                  <Form.Control type='text' placeholder='Owner Name' name='owner' value={ this.state.owner } onChange={ this.handleChange }/>
                 </Form.Group><br/>
                 <Button variant='primary' type='submit'>Add</Button>
             </Form>

@@ -18,7 +18,6 @@ class Home extends React.Component {
     let url = window.location.origin + '/api/item/';
     axios.get(url)
       .then(res => {
-        console.log(res.data);
         this.setState({ data: JSON.parse(res.data), loading: false })
       })
       .catch(err => {
