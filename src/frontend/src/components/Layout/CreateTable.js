@@ -5,22 +5,23 @@ import { Container, Row, Col, Spinner, Table } from 'react-bootstrap';
 
 class CreateTable extends React.Component {
 
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       data: [],
       loading: true,
-      search: ''
     }
   }
 
   componentDidMount() {
     let url = '';
-    if (this.state.search === '') {
+    console.log(this.props.name);
+    if (this.props.name === '') {
       url = window.location.origin + '/api/item/';
     } else {
-      url = window.location.origin + '/api/item/' + this.state.search + '/';
+      url = window.location.origin + '/api/item/' + this.props.name + '/';
     }
+    console.log(url);
     axios.get(url)
       .then(res => {
         this.setState({ data: JSON.parse(res.data), loading: false })
