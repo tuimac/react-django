@@ -17974,3 +17974,2169 @@ Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.p
 Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
 
 "GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 12:59:55,510
+
+Source log file: /usr/lib/python3.9/site-packages/django/utils/autoreload.py line: 637
+
+Watching for file changes with StatReloader
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:02:24,293
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:05:13,947
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:06:09,862
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:11:34,149
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:18:27,283
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:19:53,601
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:19:57,103
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:21:11,974
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:43,756
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:43,868
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:43,969
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,064
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,142
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,213
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,293
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,364
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,454
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,533
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,614
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,693
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,764
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,833
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:44,923
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,001
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,092
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,174
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,254
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,354
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,425
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,504
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,573
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,644
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,724
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,793
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,874
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:45,963
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,044
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,124
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,204
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,284
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,353
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,424
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,514
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,596
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,674
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,754
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,834
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:46,914
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,001
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,074
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,156
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,254
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,334
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,404
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,483
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,565
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,638
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,713
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,783
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,856
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:47,933
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,014
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,094
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,174
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,254
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,334
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,413
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,483
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,563
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,645
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,724
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,803
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,874
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:48,954
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,033
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,112
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,214
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,304
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,394
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,474
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,554
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,633
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,703
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,784
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,862
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:49,944
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,023
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,094
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,184
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,264
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,334
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,413
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,484
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,554
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,633
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,723
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,823
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,894
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:50,963
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,034
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,114
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,183
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,275
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,362
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,444
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,516
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,592
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,686
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,757
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,836
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,912
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:51,984
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,054
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,132
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,206
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,294
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,364
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,434
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,513
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,584
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,656
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,735
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,813
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,891
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:52,964
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,045
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,123
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,193
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,264
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,340
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,413
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,484
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,553
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,634
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,714
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,783
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,864
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:53,943
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,014
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,084
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,164
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,254
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,329
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,404
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,483
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,564
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,651
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,723
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,803
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,884
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:54,953
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,023
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,094
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,163
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,243
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,324
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,403
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,474
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,544
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,613
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,684
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,755
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,833
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:55,913
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,026
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,114
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,204
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,284
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,364
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,444
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,532
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,611
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,693
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,775
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,874
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:56,963
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,044
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,124
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,213
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,294
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,373
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,454
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,546
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,624
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,711
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,811
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,890
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:57,966
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,059
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,153
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,236
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,316
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,405
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,496
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,587
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,666
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,755
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,854
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:58,938
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,169
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,279
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,368
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,463
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,553
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,635
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,715
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,806
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,885
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:22:59,965
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,045
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,135
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,219
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,296
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,376
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,466
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,550
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,625
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,736
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,847
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:00,927
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:01,006
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:01,661
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:19,908
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,055
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,339
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,415
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,484
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,554
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,635
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,715
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,784
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,865
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:20,955
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,024
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,114
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,194
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,264
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,333
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,414
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,484
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,562
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,644
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,725
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,796
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,874
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:21,945
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,024
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,094
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,165
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,234
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,324
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,404
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,476
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,554
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,624
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,704
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,774
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,854
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:22,924
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,015
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,090
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,178
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,256
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,332
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,417
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,493
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,574
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,655
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,744
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,814
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,888
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:23,962
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,032
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,106
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,185
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,267
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,346
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,416
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,494
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,569
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,651
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,737
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,816
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,896
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:24,966
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,046
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,127
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,218
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,317
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,419
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,514
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,607
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,696
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,766
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,836
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,906
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:25,986
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,066
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,150
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,226
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,306
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,385
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,456
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,546
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,629
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,705
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,786
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,859
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:26,936
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,016
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,096
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,179
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,257
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,336
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,406
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:23:27,927
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:24:08,077
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:24:12,464
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:24:37,506
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:25:31,427
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:25:37,585
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:27:42,794
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:27:46,354
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:29:41,453
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:29:45,665
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:00,906
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:08,184
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:11,694
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:13,879
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:22,755
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:23,265
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:26,088
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:30,305
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:37:33,485
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:38:14,045
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:38:15,204
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:38:18,945
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:38:21,593
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:39:12,682
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:39:15,452
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:39:16,596
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:39:17,736
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:39:23,207
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:39:23,835
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/bike/ HTTP/1.0" 200 96
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:41:07,488
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:41:11,176
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:41:12,325
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:41:26,324
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:41:29,635
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:43:26,687
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:45:35,126
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:45:38,577
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:52:20,203
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:52:24,458
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 13:52:25,497
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 14:02:03,942
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 14:02:09,748
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 14:02:10,516
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 14:02:14,348
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/pen/ HTTP/1.0" 200 95
+----------------------------------------------------------------------------------------------------
+[INFO] - 2021-11-03 14:02:15,188
+
+Source log file: /usr/lib/python3.9/site-packages/django/core/servers/basehttp.py line: 161
+
+"GET /api/item/ HTTP/1.0" 200 476

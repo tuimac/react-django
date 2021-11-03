@@ -2,7 +2,6 @@ import React from 'react';
 import axios from 'axios';
 import { Container, Row, Col, Spinner, Table } from 'react-bootstrap';
 
-
 class CreateTable extends React.Component {
 
   constructor(props) {
@@ -29,6 +28,25 @@ class CreateTable extends React.Component {
       .catch(err => {
         console.error(err);
       })
+  }
+
+  componentWillReceiveProps() {
+    let url = '';
+    console.log(this.props.name);
+    if (this.props.name === '') {
+      url = window.location.origin + '/api/item/';
+    } else {
+      url = window.location.origin + '/api/item/' + this.props.name + '/';
+    }
+    console.log(url);
+    axios.get(url)
+      .then(res => {
+        this.setState({ data: JSON.parse(res.data), loading: false })
+      })
+      .catch(err => {
+        console.error(err);
+      })
+    this.forceUpdate();
   }
 
   render() {

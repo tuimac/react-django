@@ -8,16 +8,10 @@ class Layout extends React.Component {
     super(props);
     this.state = {
       keyword: '',
-      page: ''
+      page: <CreateTable name=''/>
     };
     this.handleChange = this.handleChange.bind(this);
     this.searchItem = this.searchItem.bind(this);
-  }
-
-  componentDidMount() {
-    this.setState({
-      page: <CreateTable name=''/>
-    });
   }
 
   handleChange(event) {
@@ -25,12 +19,10 @@ class Layout extends React.Component {
   }
 
   searchItem() {
-    console.log(this.state.page);
-    console.log(this.state.keyword);
-    this.state.page = <CreateTable name={ this.state.keyword }/>;
-    // this.setState({
-    //   page: <CreateTable name={ this.state.keyword }/>
-    // });
+    this.setState({
+      page: <CreateTable name={ this.state.keyword }/>
+    });
+    this.forceUpdate();
     console.log(this.state.page);
   }
 
