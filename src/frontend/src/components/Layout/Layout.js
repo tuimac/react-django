@@ -22,7 +22,6 @@ class Layout extends React.Component {
     this.setState({
       page: <CreateTable name={ this.state.keyword }/>
     });
-    this.forceUpdate();
     console.log(this.state.page);
   }
 
