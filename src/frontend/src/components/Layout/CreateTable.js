@@ -13,30 +13,22 @@ class CreateTable extends React.Component {
   }
 
   componentDidMount() {
-    let url = '';
-    console.log(this.props.name);
-    if (this.props.name === '') {
-      url = window.location.origin + '/api/item/';
-    } else {
-      url = window.location.origin + '/api/item/' + this.props.name + '/';
-    }
-    console.log(url);
-    axios.get(url)
-      .then(res => {
-        this.setState({ data: JSON.parse(res.data), loading: false })
-      })
-      .catch(err => {
-        console.error(err);
-      })
+    this.fetchData(this.props.name);
   }
 
-  componentWillReceiveProps() {
+  componentDidUpdate(prevProps, prevState) {
+    if(prevProps.name !== this.props.name) {
+      this.fetchData(this.props.name);
+    }
+  }
+
+  fetchData(name) {
     let url = '';
-    console.log(this.props.name);
+    console.log(name);
     if (this.props.name === '') {
       url = window.location.origin + '/api/item/';
     } else {
-      url = window.location.origin + '/api/item/' + this.props.name + '/';
+      url = window.location.origin + '/api/item/' + name + '/';
     }
     console.log(url);
     axios.get(url)

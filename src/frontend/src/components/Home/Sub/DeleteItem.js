@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { Form, Card, Button, InputGroup } from 'react-bootstrap';
+import { Form, Card, Button } from 'react-bootstrap';
 
 class DeleteItem extends React.Component {
 

@@ -1,13 +1,9 @@
 import React from 'react';
-import { Container, Row, Col, Spinner, Table } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import AddItems from './Sub/AddItems';
 import DeleteItem from './Sub/DeleteItem';
 
 class Home extends React.Component {
-
-  constructor() {
-    super();
-  }
 
   render() {
     return(
