@@ -17,7 +17,7 @@ RUN apk update && \
     apk add --no-cache bash git python3 python3-dev py3-pip nodejs npm curl tree nginx mysql-client gcc g++ mariadb-dev && \
     pip3 install -r requirements.txt && \
     git clone https://github.com/$git_user/$git_repo && \
-    cd /root/$git_user/src/frontend && \
+    cd /root/$git_repo/src/frontend && \
     npm install && \
     npm update --force
 
