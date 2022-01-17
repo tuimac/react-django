@@ -24,6 +24,7 @@ services:
     ports:
       - 80:80
     environment:
+      - DB_USER=test
       - DB_PASSWORD=password
     networks:
       - react-django

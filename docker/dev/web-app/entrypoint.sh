@@ -1,12 +1,14 @@
 #!/bin/bash
 
-cd /root/react-django/src/frontend
+GIT_REPO='react-django'
+
+cd /root/$GIT_REPO/src/frontend
 npm start &
 
-cd /root/react-django/src/backend
+cd /root/$GIT_REPO/src/backend
 
 while true; do
-    mysql -utest -ppassword -h mysql -e 'SHOW DATABASES;' > /dev/null 2>&1
+    mysql -u${DB_USER} -p${DB_PASSWORD} -h mysql -e 'SHOW DATABASES;' > /dev/null 2>&1
     if [ `echo $?` -eq 0 ]; then
         break
     fi
