@@ -26,6 +26,7 @@ services:
     environment:
       - DB_USER=test
       - DB_PASSWORD=password
+      - DB_host=mysql
     networks:
       - react-django
 networks:
