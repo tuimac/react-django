@@ -2,10 +2,10 @@
 
 GIT_REPO='react-django'
 
-cd /root/$GIT_REPO/src/frontend
+cd /root/${GIT_REPO}/src/frontend
 npm start &
 
-cd /root/$GIT_REPO/src/backend
+cd /root/${GIT_REPO}/src/backend
 
 while true; do
     mysql -u${DB_USER} -p${DB_PASSWORD} -h mysql -e 'SHOW DATABASES;' > /dev/null 2>&1

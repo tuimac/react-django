@@ -1,4 +1,9 @@
-cd /root/react-django/src/backend
+#!/bin/bash
+
+GIT_REPO='react-django'
+
+cd /root/${GIT_REPO}/src/backend
+
 sleep 5
 python3 manage.py makemigrations --no-input
 python3 manage.py migrate

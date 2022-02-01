@@ -11,8 +11,8 @@ jobs:
     machine:
       image: ubuntu-2004:202010-01
     environment:
-      - FRONT_IMAGE: 'tuimac/web'
-      - APP_IMAGE: 'tuimac/application'
+      - FRONT_IMAGE: 'web'
+      - APP_IMAGE: 'application'
       - CI: ""
     steps:
       - checkout
@@ -40,9 +40,9 @@ jobs:
             set -x
             cp -rp ../../src/backend application/
             cd web
-            docker build -t ${FRONT_IMAGE} .
+            docker build -t ${DOCKER_USER}/${FRONT_IMAGE} .
             cd ../application
-            docker build -t ${APP_IMAGE} .
+            docker build -t ${DOCKER_USER}/${APP_IMAGE} .
       - run:
           name: Start containers
           working_directory: docker/prod
@@ -64,8 +64,8 @@ jobs:
           command: |
             echo ${DOCKER_PASS} | docker login -u ${DOCKER_USER} --password-stdin
             set -x
-            docker push ${FRONT_IMAGE}
-            docker push ${APP_IMAGE}
+            docker push ${DOCKER_USER}/${FRONT_IMAGE}
+            docker push ${DOCKER_USER}/${APP_IMAGE}
   deploy:
     executor: awscli
     steps:
@@ -75,10 +75,10 @@ jobs:
             aws ssm send-command \
               --targets Key=tag:Deploy,Values=yes \
               --document-name 'AWS-RunShellScript' \
-              --parameters 'commands=/home/ec2-user/react-django/docker/prod/deploy.sh'
+              --parameters 'commands=/home/ubuntu/'${CIRCLE_PROJECT_REPONAME}'/docker/prod/deploy.sh '${DOCKER_USER}' '${CIRCLE_PROJECT_REPONAME}''
 workflows:
   version: 2.1
-  react-django:
+  pipeline:
     jobs:
       - create_images
       - deploy:

@@ -1,27 +1,10 @@
 #/bin/bash
 
-DOCKER_ID='tuimac'
-
-function create_env(){
-    docker-compose up -d
-}
-
-function delete_env(){
-    docker-compose down
-    docker rmi ${DOCKER_ID}/web
-    docker rmi ${DOCKER_ID}/application
-}
-
-function renew_project(){
-    cd ../..
-    git pull
-    cd docker/prod
-}
-
-function main(){
-    renew_project
-    delete_env
-    create_env
-}
-
-main
+cd /home/ubuntu/${2}/docker/prod
+export DOCKER_USER=$1
+docker-compose down
+docker rmi ${DOCKER_USER}/web
+docker rmi ${DOCKER_USER}/application
+docker-compose up -d
+git pull
+cd docker/prod

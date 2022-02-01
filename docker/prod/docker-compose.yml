@@ -1,7 +1,7 @@
 version: '3.9'
 services:
   application:
-    image: tuimac/application
+    image: ${DOCKER_USER}/application
     container_name: application
     restart: always
     expose:
@@ -9,7 +9,7 @@ services:
     networks:
       - react-django
   web:
-    image: tuimac/web
+    image: ${DOCKER_USER}/web
     container_name: web
     restart: always
     ports:
